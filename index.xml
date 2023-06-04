@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>rv4102</title>
-    <link>/</link>
+    <link>https://rv4102.github.io/</link>
     <description>Recent content on rv4102</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jun 2023 15:55:01 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jun 2023 15:55:01 +0530</lastBuildDate><atom:link href="https://rv4102.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>/posts/first/</link>
+      <link>https://rv4102.github.io/posts/first/</link>
       <pubDate>Sun, 04 Jun 2023 15:55:01 +0530</pubDate>
       
-      <guid>/posts/first/</guid>
+      <guid>https://rv4102.github.io/posts/first/</guid>
       <description>Hello there! 👋🏻 This is the start of my blog/ personal website!
 Here is my playlist (so you can know me better): </description>
     </item>
@@ -20,19 +20,19 @@ Here is my playlist (so you can know me better): </description>
     
     <item>
       <title>My Interests!</title>
-      <link>/interests/</link>
+      <link>https://rv4102.github.io/interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/interests/</guid>
+      <guid>https://rv4102.github.io/interests/</guid>
       <description>Some of the stuff I&amp;rsquo;ve worked on / am interested in CSE Freshers&amp;rsquo; Nite Went out of my way to perform a Mad-Lib theatre with my friend Shivam Raj </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/projects/</link>
+      <link>https://rv4102.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>https://rv4102.github.io/projects/</guid>
       <description>List of Projects that I&amp;rsquo;ve Done over time: Coursework Systems Programming Lab Compilers Lab Computer Organisation &amp;amp; Architecture Lab Networks Lab Operating Systems Lab DBMS Lab Internships / Competitions QNet (Research Internship at ISRO) Development of a Python Tutor Lunar Super Resolution 🏆 (Inter-IIT Tech Meet 11.0) Students&amp;rsquo; Auditorium Management System An auditorium management website which runs on localhost and allows the user to maintain a database of shows to be screened, along with providing functionality for seat booking.</description>
     </item>
     
