@@ -6,7 +6,16 @@
     <description>Recent content on rv4102</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jun 2023 15:55:01 +0530</lastBuildDate><atom:link href="https://rv4102.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Aug 2023 12:00:00 +0530</lastBuildDate><atom:link href="https://rv4102.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CDC Experience</title>
+      <link>https://rv4102.github.io/posts/cdc_experience/</link>
+      <pubDate>Fri, 25 Aug 2023 12:00:00 +0530</pubDate>
+      
+      <guid>https://rv4102.github.io/posts/cdc_experience/</guid>
+      <description>May 2023 June 2023 July 2023 August 5th, 2023 Finally, Sprinklr it is!</description>
+    </item>
+    
     <item>
       <title>First</title>
       <link>https://rv4102.github.io/posts/first/</link>
@@ -33,7 +42,7 @@ Here is my playlist (so you can know me better): </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rv4102.github.io/projects/</guid>
-      <description>List of Projects that I&amp;rsquo;ve Done over time: Lunar Super-Resolution Model Developed a GAN model with 3 discriminators focusing on craters, hills and the entire image respectively to achieve 16x super resolution. Hospital Management System Python Flask based system with user session management support. Bootstrap used for front-end and MySQL database for backend. Supports 4 categories of users (Administrators, Doctors, Front Desk Operators, Data Entry Operators) with functionality to schedule appointments, admit patients, to store prescription information and to store and display test results.</description>
+      <description>List of Projects that I&amp;rsquo;ve Done over time: Lunar Turing-GAN Super-Resolution Model Objective: Create a high-resolution map of the Moon using a pipeline of Image Super-Resolution models Proposed a novel GAN-based architecture with turing test based adversaries for ensuring accurate reconstruction of craters and hills. Achieved a competitive SSIM of 0.794 while increasing image spatial resolution from 5m per pixel to 30 cm per pixel, a 16x magnification. Created a pipeline capable of tiling and super-resolving an image using Lunar T-GAN, HAT, RealESRGAN and sharpening algorithms.</description>
     </item>
     
   </channel>
