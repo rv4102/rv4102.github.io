@@ -4,46 +4,39 @@
     <title>rv4102</title>
     <link>https://rv4102.github.io/</link>
     <description>Recent content on rv4102</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2023 12:00:00 +0530</lastBuildDate><atom:link href="https://rv4102.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2024 12:00:00 +0530</lastBuildDate>
+    <atom:link href="https://rv4102.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CDC Experience</title>
       <link>https://rv4102.github.io/posts/cdc_experience/</link>
-      <pubDate>Fri, 25 Aug 2023 12:00:00 +0530</pubDate>
-      
+      <pubDate>Tue, 05 Mar 2024 12:00:00 +0530</pubDate>
       <guid>https://rv4102.github.io/posts/cdc_experience/</guid>
-      <description>May 2023 June 2023 July 2023 August 5th, 2023 Finally, Sprinklr it is!</description>
+      <description>My CDC Internship Drive Experience Hi everyone! This is a personal blog about my journey towards securing an internship at Sprinklr for the summer of 2024 through IIT Kharagpur&amp;rsquo;s CDC Internship process.
+The Beginning Owing to Covid, our batch had to wait 2 months for college to begin and even when it did during December 2020, it was online! What a bummer for a starry-eyed fresher. Among the hubbub regarding various societies and their selections, I came across Business Club and was competent enough to clear their selection process.</description>
     </item>
-    
     <item>
       <title>First</title>
       <link>https://rv4102.github.io/posts/first/</link>
       <pubDate>Sun, 04 Jun 2023 15:55:01 +0530</pubDate>
-      
       <guid>https://rv4102.github.io/posts/first/</guid>
       <description>Hello there! 👋🏻 This is the start of my blog/ personal website!
 Here is my playlist (so you can know me better): </description>
     </item>
-    
-    
     <item>
       <title>My Interests!</title>
       <link>https://rv4102.github.io/interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rv4102.github.io/interests/</guid>
       <description>Some of the stuff I&amp;rsquo;ve worked on / am interested in CSE Freshers&amp;rsquo; Nite Went out of my way to perform a Mad-Lib theatre with my friend Shivam Raj Sketches I&amp;rsquo;ve made Check out more of them here</description>
     </item>
-    
     <item>
       <title>Projects</title>
       <link>https://rv4102.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rv4102.github.io/projects/</guid>
       <description>List of Projects that I&amp;rsquo;ve Done over time: Lunar Turing-GAN Super-Resolution Model Objective: Create a high-resolution map of the Moon using a pipeline of Image Super-Resolution models Proposed a novel GAN-based architecture with turing test based adversaries for ensuring accurate reconstruction of craters and hills. Achieved a competitive SSIM of 0.794 while increasing image spatial resolution from 5m per pixel to 30 cm per pixel, a 16x magnification. Created a pipeline capable of tiling and super-resolving an image using Lunar T-GAN, HAT, RealESRGAN and sharpening algorithms.</description>
     </item>
-    
   </channel>
 </rss>
