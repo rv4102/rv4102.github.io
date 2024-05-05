@@ -37,7 +37,8 @@ Here is my playlist (so you can know me better): </description>
       <link>https://rv4102.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rv4102.github.io/projects/</guid>
-      <description>My Projects (Group and Personal): Distributed Database Development | Distributed Systems Objective: Create a replicated database with sharding and incorporate Write-Ahead Logging mechanism Created a dockerized database container with consistent hashing for load-balancing, ensuring balanced distribution of write requests among shard replicas. Ensured scalability by supporting faster reads with dynamic increment of replicas and larger database size with additional shards and servers. Developed a Write-Ahead Logging (WAL) mechanism for data consistency and recovery by first recording changes before committing them to disk.</description>
+      <description>This is a list of projects which I&amp;rsquo;ve been a part of (either self project or team project). While majority of these are owing to the CS Department coursework, some of them (Inter-IIT, Stanford, ISRO) are personal undertakings which I am very proud of!
+Distributed Database Development | Distributed Systems Objective: Create a replicated database with sharding and incorporate Write-Ahead Logging mechanism Created a dockerized database container with consistent hashing for load-balancing, ensuring balanced distribution of write requests among shard replicas.</description>
     </item>
   </channel>
 </rss>
