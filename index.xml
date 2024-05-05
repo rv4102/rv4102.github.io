@@ -37,7 +37,7 @@ Here is my playlist (so you can know me better): </description>
       <link>https://rv4102.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rv4102.github.io/projects/</guid>
-      <description>List of Projects that I&amp;rsquo;ve Done over time: Lunar Turing-GAN Super-Resolution Model Objective: Create a high-resolution map of the Moon using a pipeline of Image Super-Resolution models Proposed a novel GAN-based architecture with turing test based adversaries for ensuring accurate reconstruction of craters and hills. Achieved a competitive SSIM of 0.794 while increasing image spatial resolution from 5m per pixel to 30 cm per pixel, a 16x magnification. Created a pipeline capable of tiling and super-resolving an image using Lunar T-GAN, HAT, RealESRGAN and sharpening algorithms.</description>
+      <description>My Projects (Group and Personal): Distributed Database Development | Distributed Systems Objective: Create a replicated database with sharding and incorporate Write-Ahead Logging mechanism Created a dockerized database container with consistent hashing for load-balancing, ensuring balanced distribution of write requests among shard replicas. Ensured scalability by supporting faster reads with dynamic increment of replicas and larger database size with additional shards and servers. Developed a Write-Ahead Logging (WAL) mechanism for data consistency and recovery by first recording changes before committing them to disk.</description>
     </item>
   </channel>
 </rss>
