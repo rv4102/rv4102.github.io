@@ -1,44 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>rv4102</title>
-    <link>https://rv4102.github.io/</link>
-    <description>Recent content on rv4102</description>
-    <generator>Hugo -- 0.125.5</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2024 12:00:00 +0530</lastBuildDate>
-    <atom:link href="https://rv4102.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <title>Rushil Venkateswar</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Rushil Venkateswar</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My CDC Internship Drive Experience</title>
-      <link>https://rv4102.github.io/posts/cdc_experience/</link>
-      <pubDate>Tue, 05 Mar 2024 12:00:00 +0530</pubDate>
-      <guid>https://rv4102.github.io/posts/cdc_experience/</guid>
-      <description>Hi everyone! This is a personal blog about my journey towards securing an internship at Sprinklr for the summer of 2024 through IIT Kharagpur&amp;rsquo;s CDC Internship process.
-. . .
-The Beginning Owing to Covid, our batch had to wait 2 months for college to begin and even when it did during December 2020, it was online! What a bummer for a starry-eyed fresher. Among the hubbub regarding various societies and their selections, I came across Business Club and was competent enough to clear their selection process.</description>
+      <link>http://localhost:1313/blog/cdc_experience/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/cdc_experience/</guid>
+      <description>Blog about my intern</description>
     </item>
     <item>
-      <title>First</title>
-      <link>https://rv4102.github.io/posts/first/</link>
-      <pubDate>Sun, 04 Jun 2023 15:55:01 +0530</pubDate>
-      <guid>https://rv4102.github.io/posts/first/</guid>
-      <description>Hello there! 👋🏻 This is the start of my blog/ personal website!
+      <title>First Blog Post</title>
+      <link>http://localhost:1313/blog/first/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/first/</guid>
+      <description>Hello there! 👋🏻 This is the start of my blog/personal website!
 Here is my playlist (so you can know me better): </description>
     </item>
     <item>
-      <title>My Interests!</title>
-      <link>https://rv4102.github.io/interests/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rv4102.github.io/interests/</guid>
-      <description>Some of the stuff I&amp;rsquo;ve worked on / am interested in CSE Freshers&amp;rsquo; Nite Went out of my way to perform a Mad-Lib theatre with my friend Shivam Raj Sketches I&amp;rsquo;ve made Check out more of them here</description>
+      <title>Inter IIT Tech Meet 11.0 – Gold Winning Solution</title>
+      <link>http://localhost:1313/projects/lunar_tgan/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lunar_tgan/</guid>
+      <description>Lunar Turing-GAN Super-Resolution Model Objective: Create a high-resolution map of the Moon using a pipeline of Image Super-Resolution models Proposed a novel GAN-based architecture with turing test based adversaries for ensuring accurate reconstruction of craters and hills. Achieved a competitive SSIM of 0.794 while increasing image spatial resolution from 5m per pixel to 30 cm per pixel, a 16x magnification. Created a pipeline capable of tiling and super-resolving an image using Lunar T-GAN, HAT, RealESRGAN and sharpening algorithms.</description>
     </item>
     <item>
-      <title>Projects</title>
-      <link>https://rv4102.github.io/projects/</link>
+      <title>My Interests!</title>
+      <link>http://localhost:1313/interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rv4102.github.io/projects/</guid>
-      <description>This is a list of projects which I&amp;rsquo;ve been a part of (either self project or team project). While majority of these are owing to the CS Department coursework, some of them (Inter-IIT, Stanford, ISRO) are personal undertakings which I am very proud of!
-Distributed Database Development | Distributed Systems Objective: Create a replicated database with sharding and incorporate Write-Ahead Logging mechanism Created a dockerized database container with consistent hashing for load-balancing, ensuring balanced distribution of write requests among shard replicas.</description>
+      <guid>http://localhost:1313/interests/</guid>
+      <description>These are some of the stuff I&amp;rsquo;ve worked on/am interested in.
+CSE Freshers&amp;rsquo; Nite Went out of my way to perform a Mad-Lib theatre with my friend Shivam Raj Sketches I&amp;rsquo;ve made Check out more of them here </description>
     </item>
   </channel>
 </rss>

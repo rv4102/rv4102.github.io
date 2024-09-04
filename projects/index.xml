@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Rushil Venkateswar</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Rushil Venkateswar</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inter IIT Tech Meet 11.0 – Gold Winning Solution</title>
+      <link>http://localhost:1313/projects/lunar_tgan/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lunar_tgan/</guid>
+      <description>Lunar Turing-GAN Super-Resolution Model Objective: Create a high-resolution map of the Moon using a pipeline of Image Super-Resolution models Proposed a novel GAN-based architecture with turing test based adversaries for ensuring accurate reconstruction of craters and hills. Achieved a competitive SSIM of 0.794 while increasing image spatial resolution from 5m per pixel to 30 cm per pixel, a 16x magnification. Created a pipeline capable of tiling and super-resolving an image using Lunar T-GAN, HAT, RealESRGAN and sharpening algorithms.</description>
+    </item>
+  </channel>
+</rss>
