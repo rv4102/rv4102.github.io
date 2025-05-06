@@ -4,10 +4,23 @@
     <title>Rushil Venkateswar</title>
     <link>https://rv4102.github.io/</link>
     <description>Recent content on Rushil Venkateswar</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rv4102.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sprinklr Internship</title>
+      <link>https://rv4102.github.io/projects/sprinklr/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://rv4102.github.io/projects/sprinklr/</guid>
+      <description>&lt;h2 id=&#34;workflow-automation&#34;&gt;Workflow Automation&lt;/h2&gt;
+&lt;h3 id=&#34;objective-automate-after-call-workflow-graph-creation-using-a-chatbot-interface-and-guided-path-graph-summarization-using-llms&#34;&gt;Objective: Automate after-call workflow graph creation using a chatbot interface and guided-path graph summarization using LLMs&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Ensured structured output generation from LLMs using Pydantic class definitions, allowing data validation &amp;amp; serialization&lt;/li&gt;
+&lt;li&gt;Leveraged prompt engineering, function calling &amp;amp; query re-asking through Instructor package to generate workflows from queries&lt;/li&gt;
+&lt;li&gt;Modified open-source packages for compatibility, dockerizing and deploying the tools to reduce workflow creation time by over 60%&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
     <item>
       <title>My CDC Internship Drive Experience</title>
       <link>https://rv4102.github.io/blog/cdc_experience/</link>
@@ -16,27 +29,102 @@
       <description>Blog about my intern</description>
     </item>
     <item>
+      <title>Inter IIT Tech Meet 12.0 – Gold Winning Solution</title>
+      <link>https://rv4102.github.io/projects/rtac/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rv4102.github.io/projects/rtac/</guid>
+      <description>&lt;h2 id=&#34;reimagining-tooling-as-coding-rtac-frameworkhttpsgithubcomrv4102tooling-as-coding&#34;&gt;&lt;a href=&#34;https://github.com/rv4102/tooling-as-coding&#34; target=&#34;_blank&#34;&gt;Reimagining Tooling as Coding (RTaC) Framework&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;objective-create-a-low-latency-tool-use-llm-which-matches-closed-source-llms-in-performance-while-being-cost-effective&#34;&gt;Objective: Create a low-latency tool-use LLM which matches closed-source LLMs in performance while being cost-effective&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Created RTaC framework to convert tools to python functions, promoting docstring-reading capabilities in coding-base LLMs&lt;/li&gt;
+&lt;li&gt;Utilized PEFT to finetune Code Llama 7B &amp;amp; DeepSeek 1.3B on 2500 examples of manually cleaned GPT generated synthetic data&lt;/li&gt;
+&lt;li&gt;Achieved a competitive performance to GPT-4 at 20% of the cost, supporting dynamic tool addition &amp;amp; mathematical/iterative logic&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
       <title>First Blog Post</title>
       <link>https://rv4102.github.io/blog/first/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://rv4102.github.io/blog/first/</guid>
-      <description>Hello there! 👋🏻 This is the start of my blog/personal website!
-Here is my playlist (so you can know me better): </description>
+      <description>&lt;h1 id=&#34;hello-there-&#34;&gt;Hello there! 👋🏻&lt;/h1&gt;
+&lt;p&gt;This is the start of my blog/personal website!&lt;/p&gt;
+&lt;h2 id=&#34;here-is-my-playlist-so-you-can-know-me-better&#34;&gt;Here is my playlist (so you can know me better):&lt;/h2&gt;
+
+
+
+&lt;iframe src=&#34;https://open.spotify.com/embed/playlist/2ATtvgwn86ReCJvIn52B00&#34;
+    width=&#34;100%&#34;
+    height=&#34;500&#34;
+    frameborder=&#34;0&#34;
+    allowtransparency=&#34;true&#34;
+    allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Stanford University Research Internship</title>
+      <link>https://rv4102.github.io/projects/mch_lmic/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://rv4102.github.io/projects/mch_lmic/</guid>
+      <description>&lt;h2 id=&#34;maternal-and-child-health-monitoring-in-lmicshttpsgithubcomrv4102pred-health-indicator&#34;&gt;&lt;a href=&#34;https://github.com/rv4102/pred-health-indicator&#34; target=&#34;_blank&#34;&gt;Maternal and Child Health Monitoring in LMICs&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;objective-estimate-6-key-indicators-of-health-status-in-low-income-countries-using-numeric-features-derived-from-satellite-imagery&#34;&gt;Objective: Estimate 6 key indicators of health status in low income countries using numeric features derived from satellite imagery&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Trained a Boosting on Error ensemble to predict 4 level residuals using Random Forest &amp;amp; XGBoost, with MCRMSE of 10.759&lt;/li&gt;
+&lt;li&gt;Utilized Dask package on an 8GB dataset for EDA, finally using RF.feature_importances_ parameter to perform feature selection&lt;/li&gt;
+&lt;li&gt;Secured 1st position out of 30 participating teams in a Kaggle competition conducted by the lab as part of the internship program&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Inter IIT Tech Meet 11.0 – Gold Winning Solution</title>
       <link>https://rv4102.github.io/projects/lunar_tgan/</link>
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://rv4102.github.io/projects/lunar_tgan/</guid>
-      <description>Lunar Turing-GAN Super-Resolution Model Objective: Create a high-resolution map of the Moon using a pipeline of Image Super-Resolution models Proposed a novel GAN-based architecture with turing test based adversaries for ensuring accurate reconstruction of craters and hills. Achieved a competitive SSIM of 0.794 while increasing image spatial resolution from 5m per pixel to 30 cm per pixel, a 16x magnification. Created a pipeline capable of tiling and super-resolving an image using Lunar T-GAN, HAT, RealESRGAN and sharpening algorithms.</description>
+      <description>&lt;h2 id=&#34;lunar-turing-gan-super-resolution-modelhttpsgithubcomrv4102lunar-super-resolution&#34;&gt;&lt;a href=&#34;https://github.com/rv4102/lunar-super-resolution&#34; target=&#34;_blank&#34;&gt;Lunar Turing-GAN Super-Resolution Model&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;objective-create-a-high-resolution-map-of-the-moon-using-a-pipeline-of-image-super-resolution-models&#34;&gt;Objective: Create a high-resolution map of the Moon using a pipeline of Image Super-Resolution models&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Proposed a novel GAN-based architecture with separate adversaries for ensuring accurate reconstruction of craters and hills&lt;/li&gt;
+&lt;li&gt;Developed a Lunar Atlas by correcting coordinates &amp;amp; stitching together individual image patches from Chadrayaan-2 TMC payload&lt;/li&gt;
+&lt;li&gt;Created a pipeline capable of tiling and super-resolving an image using Lunar T-GAN, HAT, RealESRGAN and sharpening algorithms&lt;/li&gt;
+&lt;li&gt;Achieved a competitive SSIM of 0.794 while increasing spatial resolution from 5m/pixel to 30 cm/pixel, a 16x magnification&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Report link: &lt;a href=&#34;https://rv4102.github.io/final_report_team_11_ISRO.pdf&#34;&gt;report&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ISRO Research Internship</title>
+      <link>https://rv4102.github.io/projects/qnet/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://rv4102.github.io/projects/qnet/</guid>
+      <description>&lt;h2 id=&#34;semantic-segmentation-of-remote-sensing-imageshttpsgithubcomrv4102qnet&#34;&gt;&lt;a href=&#34;https://github.com/rv4102/qnet&#34; target=&#34;_blank&#34;&gt;Semantic Segmentation of Remote Sensing Images&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;objective-develop-an-ecient-cnn-architecture-using-tensorflow-for-semantic-segmentation-of-geospatial-images-into-4-classes&#34;&gt;Objective: Develop an e!cient CNN architecture using Tensorflow for semantic segmentation of geospatial images into 4 classes&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Improved standard U-Net architecture by adding dilated &amp;amp; depthwise separable convolutions achieving a mean IoU of 0.73&lt;/li&gt;
+&lt;li&gt;Employed unified focal loss in order to work with class imbalanced Landcover.AI dataset, along with custom dataloader pipeline&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     <item>
       <title>My Interests!</title>
       <link>https://rv4102.github.io/interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rv4102.github.io/interests/</guid>
-      <description>These are some of the stuff I&amp;rsquo;ve worked on/am interested in.
-CSE Freshers&amp;rsquo; Nite Went out of my way to perform a Mad-Lib theatre with my friend Shivam Raj Sketches I&amp;rsquo;ve made Check out more of them here </description>
+      <description>&lt;p&gt;These are some of the stuff I&amp;rsquo;ve worked on/am interested in.&lt;/p&gt;
+&lt;h2 id=&#34;cse-freshers-nite&#34;&gt;CSE Freshers&amp;rsquo; Nite&lt;/h2&gt;
+&lt;p&gt;Went out of my way to perform a Mad-Lib theatre with my friend &lt;a href=&#34;https://www.instagram.com/_enigma.77&#34; target=&#34;_blank&#34;&gt;Shivam Raj&lt;/a&gt;
+
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/sKr1YgFYfcU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;sketches-ive-made&#34;&gt;Sketches I&amp;rsquo;ve made&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;sasuke_sketch.jpeg&#34; loading=&#34;lazy&#34; src=&#34;https://rv4102.github.io/sasuke_sketch.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Check out more of them &lt;a href=&#34;https://www.flickr.com/photos/197745906@N07/with/52991938899/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

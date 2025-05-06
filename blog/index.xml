@@ -4,7 +4,7 @@
     <title>Blogs on Rushil Venkateswar</title>
     <link>https://rv4102.github.io/blog/</link>
     <description>Recent content in Blogs on Rushil Venkateswar</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rv4102.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -20,8 +20,18 @@
       <link>https://rv4102.github.io/blog/first/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://rv4102.github.io/blog/first/</guid>
-      <description>Hello there! 👋🏻 This is the start of my blog/personal website!
-Here is my playlist (so you can know me better): </description>
+      <description>&lt;h1 id=&#34;hello-there-&#34;&gt;Hello there! 👋🏻&lt;/h1&gt;
+&lt;p&gt;This is the start of my blog/personal website!&lt;/p&gt;
+&lt;h2 id=&#34;here-is-my-playlist-so-you-can-know-me-better&#34;&gt;Here is my playlist (so you can know me better):&lt;/h2&gt;
+
+
+
+&lt;iframe src=&#34;https://open.spotify.com/embed/playlist/2ATtvgwn86ReCJvIn52B00&#34;
+    width=&#34;100%&#34;
+    height=&#34;500&#34;
+    frameborder=&#34;0&#34;
+    allowtransparency=&#34;true&#34;
+    allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>
